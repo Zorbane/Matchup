@@ -1,0 +1,37 @@
+Bugs
+Doesn't always seem to filter the grids
+
+Features
+Scrape for odds
+Show team streaks
+More matchup info
+Last 10
+No filter at start
+Columns not sortable
+
+Leagues
+Norway
+- Standings - https://www.hockey.no/live/Standings
+- Schedule - https://www.hockey.no/live/Schedule
+Czech
+- Standings - http://www.hokej.cz/tipsport-extraliga/table?table-filter-season=2016&table-filter-competition=5821
+- Schedule - http://www.hokej.cz/tipsport-extraliga/zapasy?matchList-view-displayAll=1&matchList-filter-season=2016&matchList-filter-competition=5821
+Belarus - give up
+Slovakia
+- Standings - http://www.hockeyslovakia.sk/sk/statistiky/tabulky/572/extraliga-sr-2016-2017
+- Schedule - http://www.hockeyslovakia.sk/sk/statistiky/program-vysledky/572/extraliga-sr-2016-2017
+SHL
+- Standings - http://stats.swehockey.se/ScheduleAndResults/Standings/7132
+- Schedule - http://stats.swehockey.se/ScheduleAndResults/Schedule/7132
+Allsvenskan
+- Standings - http://stats.swehockey.se/ScheduleAndResults/Standings/7157
+- Schedule - http://stats.swehockey.se/ScheduleAndResults/Schedule/7157
+Switzerland
+- Standings - http://www.sihf.ch/de/game-center/#/standing/rank/asc/page/0/2017
+- Schedule (CSV) - http://dvdata.sihf.ch/Statistic/api/cms/export?alias=results&searchQuery=1%2C8%2C10%2C11%2F%2F1%2C2%2C8%2C9%2C20%2C47%2C48%2C50%2C90%2C81&filterQuery=2017%2F1%2F2158%2F07.09.2016-25.02.2017&filterBy=Season%2CLeague%2CPhase%2CDate&orderBy=date&orderByDescending=false&format=csv
+Alps Hockey League
+- Standings - http://www.erstebankliga.at/standings-ahl-en
+- Schedule - http://www.erstebankliga.at/schedule-results-ahl-en
+MOL Liga
+- Standings - http://www.jegkorongszovetseg.hu/molliga/standings
+- Schedule - http://www.icehockey.hu/oldalak/mol_liga/menetrend
